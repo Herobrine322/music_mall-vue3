@@ -1,2 +1,17 @@
-# music_mall-vue3
-音乐商城微信小程序的后台管理网页前端
+# Touko_mall
+
+## Project setup
+
+编译器里直接打：
+
+```
+yarn
+```
+
+### Compiles and hot-reloads for development
+
+打包好后运行项目：
+
+```
+yarn serve
+```
